@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/TDRPG 3D Prototype.unity
+  isLoaded: 1
+  isActive: 1
