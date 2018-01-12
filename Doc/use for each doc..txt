@@ -1,0 +1,25 @@
+Bug Doc- used to document glitches/issues that need to be fixed/addressed either now or later
+
+Dev. Doc-
+
+(before you start working) 
+Day/Time:
+Version:
+Goals for the Day:
+Things your Expect to strugle with:
+
+Time: update.
+update: anything you decide to change as your working. 
+
+(After your done working)
+Day/Time:
+Version:
+What you did that day:
+what you had an issue with:
+what you want to do tomorrow:
+
+
+Personal Log:
+Use it kinda like a log. List issues you have with life, what your doing diffrently. 
+see what helps get shit done and what does not.
+
